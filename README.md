@@ -1,3 +1,3 @@
 # hello-world
 
-Welcome to the githup and your first commit.
+Welcome to the github and your first commit.
